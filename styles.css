@@ -1,0 +1,20 @@
+/**/
+/* combine selectors*/
+
+/* p{
+  color: red;
+} */
+/* .container {
+  color: orange;
+} */
+
+/* .container #text {
+  color: orange;
+} */
+.container h2 {
+  color: blueviolet;
+}
+
+.container p {
+  color: green;
+}

@@ -1,0 +1,21 @@
+/* id selectors */
+/*DIV and SPAN- used for grouping  */
+/* DIV - used to group multiplr elements */
+/* SPAN - used to group inline content */
+
+.green {
+  color: green;
+  background: yellow;
+}
+.red {
+  color: red;
+  background: black;
+}
+
+span {
+  text-transform: uppercase;
+}
+.text {
+  background: white;
+  color: blue;
+}
